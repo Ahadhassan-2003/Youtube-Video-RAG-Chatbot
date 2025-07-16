@@ -2,6 +2,10 @@
 
 A conversational AI chatbot that allows users to interact with YouTube video content using Retrieval-Augmented Generation (RAG). The application extracts video transcripts, creates a searchable knowledge base, and provides intelligent responses based on the video content.
 
+## Live Demo
+
+Try the application directly in your browser: [YouTube RAG Chatbot](https://ahadhassan-2003-youtube-video-rag-chatbot-app-c39c8m.streamlit.app/)
+
 ## Features
 
 - **Video Transcript Processing**: Automatically extracts transcripts from YouTube videos
