@@ -6,6 +6,8 @@ A conversational AI chatbot that allows users to interact with YouTube video con
 
 Try the application directly in your browser: [YouTube RAG Chatbot](https://ahadhassan-2003-youtube-video-rag-chatbot-app-c39c8m.streamlit.app/)
 
+![Screenshot of Homepage](docs/homepage_screenshot.png)
+
 ## Features
 
 - **Video Transcript Processing**: Automatically extracts transcripts from YouTube videos
