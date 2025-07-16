@@ -1,0 +1,10 @@
+streamlit
+youtube-transcript-api
+langchain-community
+langchain-openai
+langchain-core
+faiss-cpu
+tiktoken
+openai
+numpy
+python-dotenv
